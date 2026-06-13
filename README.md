@@ -44,3 +44,13 @@ No additional installation is required.
 * Calculation history
 * Scientific calculator functions
 * Dark mode
+
+  ## Screenshots
+
+Here is the calculator interface:
+
+![Calculator Interface](s1.png)
+
+And a demonstration of the calculations:
+
+![Calculator Calculation](s2.png)  
